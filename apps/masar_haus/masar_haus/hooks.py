@@ -252,7 +252,8 @@ fixtures = [
         [
             "name", "in", [
                 "Customer-custom_company_group",
-                "Customer-custom_customer_rating"
+                "Customer-custom_customer_rating",
+                "Contact-custom_country"
             ]
         ]
     ]}
